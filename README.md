@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Exemplo de README.md</h1>
 
 ## :memo: Descrição
-Escreva uma descrição do seu projeto
+Escreva uma descrição do seu projeto.
 
 ## :books: Funcionalidades
 * <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
