@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Exemplo de README.md</h1>
 
 ## :memo: Descrição
-Escreva uma descrição do seu projeto
+O projeto tem como base a ideia de lista de tarefas simples diárias a serem feitas para a criação de uma rotina fixa.
 
 ## :books: Funcionalidades
 * <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
